@@ -1,0 +1,34 @@
+{
+  "restaurant": [
+    {
+      "nombrePlatillo": "Arroz con leche",
+      "precioPlatillo": "20",
+      "categoria": "Postres",
+      "id": 1
+    },
+    {
+      "nombrePlatillo": "Mazamorra",
+      "precioPlatillo": "6",
+      "categoria": "Postres",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "jugo de manzana",
+      "precioPlatillo": "20",
+      "categoria": "Ensaladas",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "jugo de papaya",
+      "precioPlatillo": "3",
+      "categoria": "Bebidas",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "Helado",
+      "precioPlatillo": "15",
+      "categoria": "Bebidas",
+      "id": 5
+    }
+  ]
+}
